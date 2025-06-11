@@ -1,0 +1,30 @@
+# Python generated files
+__pycache__/
+*.pyc
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter Notebook specific files
+analysis/.ipynb_checkpoints/
+
+# Sensitive configuration files
+config.ini
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor backup files
+*~
+*.swp
+
+# IDE specific files (uncomment if needed)
+#.vscode/
+#.idea/

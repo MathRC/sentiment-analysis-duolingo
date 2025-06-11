@@ -5,8 +5,7 @@
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Sentiment%20Analysis%20Workflow-blue)](analysis/analysis.ipynb)
 
 <p align="center"><em>Strategic shifts are common in business, but measuring audience reactions at scale demands advanced NLP techniques. This project analyzes 11,000+ Reddit posts/comments to uncover emotional patterns around Duolingo's move toward AI.</em></p>
-
----
+<br>
 
 ## 🔍 Project Overview
 
@@ -17,7 +16,6 @@ On **April 28, 2025**, Duolingo surprised users by announcing its decision to be
 
 As a data science enthusiast and longtime Duolingo user (with a 1,775-day streak to prove it!), this project gave me a chance to apply NLP to real-world reactions during a corporate pivot. It highlights the crucial role of data science in extracting valuable insights from unstructured text data.
 
----
 
 ## 📊 Key Findings
 
@@ -25,7 +23,6 @@ As a data science enthusiast and longtime Duolingo user (with a 1,775-day streak
 - **Sustained Concern**: While Duolingo's CEO clarified the stance, negative sentiments persisted, indicating continued community concerns.
 - **Core Concerns**: Discussions centered around the impact of AI on human jobs and contractors, financial motivations, and direct effects on user engagement.
 
----
 
 ## 📁 Repository Structure
 
@@ -52,7 +49,6 @@ sentiment-analysis-duolingo/
 └── README.md                                     # This README file
 ````
 
----
 
 ## 🛠️ Tech Stack  
 
@@ -61,7 +57,6 @@ sentiment-analysis-duolingo/
 - **NLP & Text Processing**: Hugging Face Transformers (`joeddav/distilbert-base-uncased-go-emotions-student`), NLTK, SpaCy, emoji
 - **Visualization**: Matplotlib, Seaborn, WordCloud, PIL
 
----
 
 ## 💻 How to Reproduce
 
@@ -114,7 +109,6 @@ sentiment-analysis-duolingo/
     * Perform sentiment analysis
     * Generate visualizations saved in `figures/`
 
----
 
 ## 📈 Visual Highlights
 
@@ -136,24 +130,19 @@ Here are some of the key visualizations from the project that illustrate the fin
 
 > Figure 4: Frequently discussed topics in the post-announcement period. Dominant themes like "human," "AI," and "job" reflect concerns about automation and workforce impact.
 
----
 
 ## 📝 License
 
 This project is licensed under the MIT License. See `LICENSE.txt` for details.
 
----
 
 ## 🙏 Acknowledgments
 
 A special thank you to Duolingo for continuing to make language learning fun and for providing such an interesting case study for sentiment analysis! And, of course, to the incredible open-source community for the powerful NLP and data science tools.
 
----
 
 **🔗 Connect:** [LinkedIn](https://www.linkedin.com/in/matheus-chaud/) • [GitHub](https://github.com/MathRC)  
 **📧 Email:** [matt25data@gmail.com](mailto:matt25data@gmail.com)
 
 
 *✨ Open to collaboration and feedback!*  
-
----

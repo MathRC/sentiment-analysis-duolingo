@@ -1,7 +1,7 @@
 <h1 align="center">Duolingo's AI Stance: A Sentiment Analysis of Reddit's Response </h1>
 
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/MathRC/sentiment-analysis-duolingo)](https://github.com/MathRC/sentiment-analysis-duolingo)  
-[![License](https://img.shields.io/github/license/MathRC/sentiment-analysis-duolingo)](https://github.com/MathRC/sentiment-analysis-duolingo/blob/main/LICENSE)  
+[![License](https://img.shields.io/github/license/MathRC/sentiment-analysis-duolingo)](https://github.com/MathRC/sentiment-analysis-duolingo/blob/main/LICENSE.txt)  
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Sentiment%20Analysis%20Workflow-blue)](analysis/analysis.ipynb)
 
 <p align="center"><em>Strategic shifts are common in business, but measuring audience reactions at scale demands advanced NLP techniques. This project analyzes 11,000+ Reddit posts/comments to uncover emotional patterns around Duolingo's move toward AI.</em></p>
